@@ -24,9 +24,6 @@ Stack:
 
 <h3>Future plans:</h3>
 <ul>
-  <li>Hosting application on Google cloud services</li>
-  <li>Adding automated testing</li>
-  <li>Adding mock up environments</li>
   <li>Constructing CI/CD pipeline using Docker,Kubernetes,Github and Hosting env</li>
 </ul>
 
