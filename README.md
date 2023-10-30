@@ -1,4 +1,13 @@
-# ClothesShop_ReadMe
+# Modum_README
+<ul>
+<li>The application Modum is a clothes shop web application created with the use of the modern tech stack of .NET 7</li><br>
+<li>The application is constructed on the idea of selling clothes including full created admin panel with the help of joli-admin dashboards.</li><br>
+<li>The application is hosted using Azure web services, including the Azure sql databases.</li><br>
+<li>Using Stripe it provides fast and reliable application payments.</li><br>
+</ul>
+
+<h2><a href="https://modum.azurewebsites.net/" target="_blank">Visit the website!</a></h2>
+<br>
 Stack:
 <div class="row"> <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
